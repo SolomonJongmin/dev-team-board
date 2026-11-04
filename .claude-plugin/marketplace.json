@@ -1,0 +1,5 @@
+{
+  "name": "dev-team-board",
+  "owner": { "name": "SolomonJongmin" },
+  "plugins": [{ "name": "dev-team-board", "source": "./" }]
+}

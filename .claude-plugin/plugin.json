@@ -1,0 +1,14 @@
+{
+  "name": "dev-team-board",
+  "version": "0.2.0",
+  "description": "개발팀 현재 작업과 사용자 결정 대기 목록 패널",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "projectRoot": {
+      "type": "string",
+      "title": "프로젝트 폴더",
+      "description": "team/STATUS.md, KANBAN.md, team/profiles 가 있는 폴더의 전체 경로",
+      "default": ""
+    }
+  }
+}
